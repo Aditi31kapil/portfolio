@@ -234,7 +234,7 @@ export const projects = [
     description:
       "Our website is a one stop solution for a person who is looking for the treatment or medicines for a particular disease. Since, Many people are moving towards Ayurveda, which we should, our website not only shows you the Allopathic medicines, But the Home Remedies as well. Which can actually save you both ways i.e. financially as well as healthily. This approach fosters informed decision-making and empowers users to choose the treatment that aligns best with their needs and values.",
     image:
-      "https://private-user-images.githubusercontent.com/151728032/327883109-e7c94d6f-6835-4aa6-a62e-924dd3bd87fb.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NDQ2NTYsIm5iZiI6MTcyMTk0NDM1NiwicGF0aCI6Ii8xNTE3MjgwMzIvMzI3ODgzMTA5LWU3Yzk0ZDZmLTY4MzUtNGFhNi1hNjJlLTkyNGRkM2JkODdmYi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNVQyMTUyMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hYWY4ODNlMGQxOGNhODMzODY5Yzc0MDU2OTdlMGU5YTQxNzM5OTEyZjE4OWFkOTFjOTIwMTJiZDA4OWEyMmYyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.BniyRbNHPIZv7UzZHnyna1MfX3hloaj9DtsKz6ke_wc",
+      "https://hack-tumedichome.netlify.app/new%20logo.jpg",
     tags: ["Python", "HTML", "CSS", "JavaSCript", "Streamlit","Pandas"],
     category: "web app",
     github: "https://github.com/Aditi31kapil/MedicHome",
@@ -259,7 +259,7 @@ export const projects = [
     description:
       "We are building a website to have a solution which will help to curb sexual assault pandemic. Firstly the user will login themselves then the contact information of their five guardians would be asked.Now if the user is feeling unsafe or just wants to check in, a live location can be activated and can be shared with guardians. It is able to trigger an emergency alert with a double-press, instantly transmitting location information to selected contacts.",
     image:
-      "https://private-user-images.githubusercontent.com/151728032/320420044-59fc16df-bd31-42de-a7d1-0cfaeba45db8.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5NDY0NzEsIm5iZiI6MTcyMTk0NjE3MSwicGF0aCI6Ii8xNTE3MjgwMzIvMzIwNDIwMDQ0LTU5ZmMxNmRmLWJkMzEtNDJkZS1hN2QxLTBjZmFlYmE0NWRiOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNVQyMjIyNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYTRhYjg4MTBhZjljYmQ2NDgzMjdjMTk5ZDU4OGU4NWY4ZjMzM2M5MDE5ZWFhNTU4NTIxMzI3YTVkNTEwZmYxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.5AybOq5_nUvDi87Ls0_wt1xDjwPZnnfjyYEvNBZpheQ",
+      "https://drive.google.com/file/d/1tfmKKPG65_YocKIkurHVXuAFuLX-2y3t/view?usp=sharing",
     tags: [
       "Google Map API",
       "HTML",
@@ -305,7 +305,7 @@ export const projects = [
     description:
       " A Todo Web App made with HTML,CSS,JS and Flask. It has CRUD applications that is you can create , update and delete your Tasks ",
     image:
-      "https://private-user-images.githubusercontent.com/151728032/352523722-8656a0c7-be88-4d8e-933c-c84a6571182f.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjE5OTU4OTUsIm5iZiI6MTcyMTk5NTU5NSwicGF0aCI6Ii8xNTE3MjgwMzIvMzUyNTIzNzIyLTg2NTZhMGM3LWJlODgtNGQ4ZS05MzNjLWM4NGE2NTcxMTgyZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyNlQxMjA2MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01MDU1ZjZiZGEzM2FiMGM1YjI2ZmJjOTRkNGUxODM1YmEyYjEyZTA0ODczODBlYWM5MzVmNWVmYTQ5ZTA0NzI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.vdc0di1Ibp76aryazsiYvloVCQqYXdsaz0uAjqEkh70",
+      "https://drive.google.com/file/d/1_bPx9hOfCwwDVLUt1Yuo9l4XLaLQjFFB/view?usp=sharing",
     tags: ["HTML", "CSS", "Flask", "JavaScript", "Render"],
     category: "web app",
     github: "https://github.com/Aditi31kapil/Todolist",
