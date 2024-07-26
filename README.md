@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Aditi Kapil's Portfolio
+
+Welcome to my portfolio website! This site showcases my work and projects as a web developer. 
+
+## About the Website
+
+This portfolio is built using:
+- **React.js**: A JavaScript library for building user interfaces.
+- **HTML**: The standard markup language for creating web pages.
+- **CSS**: Used for styling the website.
+
+The website is hosted on [Vercel](https://vercel.com), providing a fast and reliable experience.
+
+## Features
+
+- **Projects**: Links to my GitHub repositories and published projects are included, allowing you to explore my work in detail.
+- **Education**: Information about my educational background.
+- **Skills**: A list of my technical skills and proficiencies.
+- **Experience**: Overview of my professional experience in the field.
+
+## Getting Started
+
+To view my portfolio, simply visit [my portfolio website]((https://portfoliowebsite-aditi-kapils-projects.vercel.app/)).
+
+## Contact
+
+Feel free to reach out via [GitHub](https://github.com/Aditi31kapil)
+
+Thank you for visiting!
+
