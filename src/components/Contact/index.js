@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
-import { useRef } from 'react';
-import emailjs from '@emailjs/browser';
+import { useRef, useState } from 'react';
+import axios from 'axios';
 import { Snackbar } from '@mui/material';
 
 const Container = styled.div`
@@ -125,19 +125,28 @@ const ContactButton = styled.input`
 const Contact = () => {
 
   //hooks
-  const [open, setOpen] = React.useState(false);
+  const [open, setOpen] = useState(false);
   const form = useRef();
 
-  const handleSubmit = (e) => {
+  const handleSubmit = async (e) => {
     e.preventDefault();
-    emailjs.sendForm('service_tox7kqs', 'template_nv7k7mj', form.current, 'SybVGsYS52j2TfLbi')
-      .then((result) => {
-        setOpen(true);
-        form.current.reset();
-      }, (error) => {
-        console.log(error.text);
-      });
-  }
+    const formData = new FormData(form.current);
+
+    const data = {
+      from_email: formData.get('from_email'),
+      from_name: formData.get('from_name'),
+      subject: formData.get('subject'),
+      message: formData.get('message'),
+    };
+
+    try {
+      await axios.post('https://script.google.com/macros/s/AKfycbxLv1tULnBoDx4JC56wpET7IbICSvsFRUeEsmanw4SMfVxAemwwX7PbxJbAcv8gosjE/exec', data);
+      setOpen(true);
+      form.current.reset();
+    } catch (error) {
+      console.log(error);
+    }
+  };
 
 
 
