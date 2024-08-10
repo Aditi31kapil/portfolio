@@ -1,6 +1,8 @@
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import _default from '../../themes/default';
+import { DiCssdeck } from 'react-icons/di';
+import { FaBars, FaSun, FaMoon } from 'react-icons/fa';
 
 export const Nav = styled.div`
     background-color: ${({theme}) => theme.card_light};
@@ -214,5 +216,38 @@ export const MobileNavLogo = styled(LinkR)`
   text-decoration: none;
   @media (max-width: 640px) {
     padding: 0 0px;
+  }
+`;
+
+export const NavIcon = styled.div`
+  color: ${({ theme }) => theme.iconColor};
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: ${({ theme }) => theme.iconHoverColor};
+  }
+`;
+
+export const NavLogoIcon = styled(DiCssdeck)`
+  color: ${({ theme }) => theme.iconColor};
+  font-size: 3rem;
+  cursor: pointer;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: ${({ theme }) => theme.iconHoverColor};
+  }
+`;
+
+export const MobileIconStyled = styled(FaBars)`
+  color: ${({ theme }) => theme.iconColor};
+  font-size: 2rem;
+  cursor: pointer;
+  transition: color 0.3s ease;
+
+  &:hover {
+    color: ${({ theme }) => theme.iconHoverColor};
   }
 `;
