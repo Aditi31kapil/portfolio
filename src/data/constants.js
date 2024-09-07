@@ -9,7 +9,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Aditi31kapil",
   resume:
-    "https://drive.google.com/file/d/133VWd5P3FGfJGyccmh1QCiqdmIhsL5Mf/view?usp=drive_link",
+    "https://drive.google.com/file/d/17-9ltQF_Hqw35AJFxg-UI7t_xWHlJInZ/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/aditi-kapil-5049b0286/",
 };
 
