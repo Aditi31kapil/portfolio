@@ -153,10 +153,10 @@ export const experiences = [
   {
     id: 2,
     img: "https://media.licdn.com/dms/image/C4E0BAQHZWpxf6Qo56A/company-logo_100_100/0/1645699280540/mudra_society_thapar_university_patiala_logo?e=1729728000&v=beta&t=yrhQIpWrvfl3s5d-DBuIq5QTG8EJ4ioe6Y8BwNOBizw",
-    role: "Member- Anchoring Team",
+    role: "Core Member",
     company: "MUDRA Society, Thapar University, Patiala",
     date: "Sep 2023 - Present",
-    desc: "1)Actively involved as a member of MUDRA Society at Thapar University, Patiala, contributing to the success of various events.Served as a key member of the anchoring team, showcasing strong communication and presentation skills.Anchored MUDRA 2k23 and IZHAAR 2K24, engaging and entertaining audiences with a dynamic and engaging stage presence.Received positive feedback from event attendees for delivering engaging and memorable performances as an anchor.",
+    desc: "1)Actively involved as a member of MUDRA Society, contributing to the success of various events.Served as a key member of the anchoring team, showcasing strong communication and presentation skills.Anchored MUDRA 2k23 and IZHAAR 2K24, engaging and entertaining audiences with a dynamic and engaging stage presence.Received positive feedback from event attendees for delivering engaging and memorable performances as an anchor. Currently working in Content and Documentation department, contributed to the development and management of content for various cultural initiatives and programs within the society.Organized Mudranite 2024, successfully gathering a crowd of 600+ attendees.",
     skills: [
       "Communication",
       "Teamwork", 
@@ -284,7 +284,7 @@ export const projects = [
     title: "Cat V/S Dog Classifier",
     date: "Feb 2024 - Feb 2024",
     description:
-      "n this project, I built a computer vision model to classify images as either depicting a cat or a dog. I utilized popular deep learning libraries like TensorFlow and Keras to develop and train the model.",
+      "In this project, I built a computer vision model to classify images as either depicting a cat or a dog. I utilized popular deep learning libraries like TensorFlow and Keras to develop and train the model.",
     image:
       "https://media.licdn.com/dms/image/D562DAQGGPISw6Ee4mA/profile-treasury-image-shrink_800_800/0/1715080704862?e=1722553200&v=beta&t=2unmQ99RsODQ8ObQP1DUxF9MEwHLuE_rVQFH0R5GoTQ",
     category: "machine learning",
@@ -303,11 +303,32 @@ export const projects = [
     description:
       " A Todo Web App made with HTML,CSS,JS and Flask. It has CRUD applications that is you can create , update and delete your Tasks ",
     image:
-      "https://drive.google.com/file/d/1_bPx9hOfCwwDVLUt1Yuo9l4XLaLQjFFB/view?usp=sharing",
+      "",
     tags: ["HTML", "CSS", "Flask", "JavaScript", "Render"],
     category: "web app",
     github: "https://github.com/Aditi31kapil/Todolist",
     webapp: "https://todolist-dizi.onrender.com",
+  },
+  {
+    id: 6,
+    title: "Disney Chatbot",
+    date: "May 2024 - May2024",
+    description:
+      "Google Login: Integrated secure Google authentication for easy access.  Character Database: Delivered detailed information on Disney characters and attractions.Voice Interaction: Enabled character-specific voice responses, e.g., Mickey Mouse introducing himself. Engaging Design: Created a visually appealing and intuitive interface for children",
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsKlF1mIUTilq6hzTo5ED4IgaWnRq6ivflcQ&s",  
+    tags: ["Next.Js", "REST API", "Firebase"],
+    category: "Web App",
+    github: "https://github.com/Aditi31kapil/Disney-Chatbot",
+  },
+  {
+    id: 7,
+    title: "Pantry Tracker",
+    date: "June 2024 - June2024",
+    description:
+      "Implemented CRUD Operations: Developed a user-friendly interface to efficiently manage pantry items.Integrated Gemini API: Designed a feature to randomly select ingredients and generate tailored recipes based on serving sizes. Organized Pantry Categorization: Established a systematic categorization for pantry items, including Fruits, Vegetables, Non Vegetarian, Dairy Products, and Spices. ", 
+    tags: ["Next.Js", "REST API", "Firebase"],
+    category: "Web App",
+    github: "https://github.com/Aditi31kapil/Pantry-Tracker",
   },
 ];
 
